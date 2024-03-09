@@ -1,0 +1,5 @@
+npm install react-router-dom --legacy-peer-deps
+
+npm install @ant-design/icons --save --legacy-peer-deps
+
+npm install antd --legacy-peer-deps

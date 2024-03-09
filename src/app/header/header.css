@@ -1,0 +1,31 @@
+.ant-layout-header {
+  display: flex;
+  background-color: darkgray;
+  flex-direction: row;
+  align-items: center;
+  padding: 6px;
+  font-weight: bold;
+  box-shadow: 0 3px 6px 0 #555;
+  justify-content: space-between;
+}
+
+.title {
+  color: white;
+  font-size: 20px;
+  align-items: center;
+}
+
+.img-icon {
+  height: 60px;
+  margin-top: 20px;
+}
+
+.title-span {
+  align-self: center;
+  color: red;
+}
+
+.search-area {
+  display: flex;
+  align-items: center;
+}
