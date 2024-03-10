@@ -32,8 +32,11 @@ const HeaderPage = () => {
       <Header>
         <div className="title">
           <img src={recipe_icon} alt="icon" className="img-icon" />
+        </div>
+        <div>
           <span className="title-span">Recipe finder</span>
         </div>
+
         <Tooltip title="click on search icon to search" color="magenta">
           <div className="search-area">
             <div>
