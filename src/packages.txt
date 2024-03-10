@@ -3,3 +3,9 @@ npm install react-router-dom --legacy-peer-deps
 npm install @ant-design/icons --save --legacy-peer-deps
 
 npm install antd --legacy-peer-deps
+
+npm install react-redux --legacy-peer-deps
+
+npm install redux --legacy-peer-deps
+
+npm install connected-react-router redux-thunk redux-logger history --legacy-peer-deps
